@@ -11,3 +11,17 @@ We are a London-based effective altruism think tank, working on discovering and 
 We're building **CAU Fund**, a crowdfunding website where people can discover and fund high-impact charitable projects.
 
 In contrast to other charity evaluators which direct funds to established charities with considerable room for more funding, **CAU Fund** moves money to smaller, fledgling projects, especially in the research, policy and advocacy space.
+
+Subscribe to updates about CAU and our projects:
+
+<div id="mc_embed_signup">
+<form action="https://fund.us19.list-manage.com/subscribe/post?u=2966de877dc533ef51eb6d432&amp;id=74d01376ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2966de877dc533ef51eb6d432_74d01376ef" tabindex="-1" value=""></div>
+    <div class="clear"><input style="visibility: hidden;" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
