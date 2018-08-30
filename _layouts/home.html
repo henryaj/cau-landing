@@ -27,10 +27,19 @@
 						</div>
 						<nav>
 							<ul>
+								<li><a href="#about">About</a></li>
 								<li><a href="mailto:{{ site.email }}">Contact</a></li>
 							</ul>
 						</nav>
 					</header>
+
+					<div id="main" style="display: none;">
+						<!-- About -->
+						<article id="about" style="display: none;" class="">
+							{% capture about %} {% include about.md %} {% endcapture %}
+							{{ about | markdownify }}
+						<div class="close">Close</div></article>
+					</div>
 
 				<!-- Footer -->
 					<footer id="footer">
