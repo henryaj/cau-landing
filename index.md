@@ -6,9 +6,7 @@ layout: home
 
 ### Center for Applied Utilitarianism
 
-We are a London-based effective altruism think tank, working on evaluating and crowdfunding breakthrough research, policy and advocacy projects.
-
-Subscribe to updates about CAU and our projects:
+We are a London-based effective altruism think tank. Subscribe to updates about us and our projects:
 
 <div id="mc_embed_signup">
 <form action="https://fund.us19.list-manage.com/subscribe/post?u=2966de877dc533ef51eb6d432&amp;id=74d01376ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
