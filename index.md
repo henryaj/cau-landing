@@ -8,8 +8,6 @@ layout: home
 
 We are a London-based effective altruism think tank, working on evaluating and crowdfunding breakthrough research, policy and advocacy projects.
 
-We're building [**Let's Fund**](https://lets-fund.org), a crowdfunding website where people can discover and fund these projects.
-
 Subscribe to updates about CAU and our projects:
 
 <div id="mc_embed_signup">
